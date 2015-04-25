@@ -1,0 +1,23 @@
+Start: Wed, 22 Apr 2015 12:01:53 -0700
+End: Wed, 22 Apr 2015 17:10:11 -0700
+Tasks: Watched the lectures in hopes of learning how to do the homework assignment.
+
+Start: Wed, 22 Apr 2015 17:15:38 -0700
+End: Wed, 22 Apr 2015 18:30:15 -0700
+Tasks: Cloned assignment repo and began to work on variables.js for part 1.
+
+Start: Wed, 22 Apr 2015 18:31:40 -0700
+End: Wed, 22 Apr 2015 20:12:56 -0700
+Tasks: Decided to install Atom and attempted Python install for jslist. Gave up on that. Only installed Atom.
+
+Start: Thu, 23 Apr 2015 15:30:00 -0700
+End: Thu, 23 Apr 2015 20:12:56 -0700
+Tasks: Got some productive work done completing variables.js and functions.js
+
+Start: Fri, 24 Apr 2015 10:38:22 -0700
+End: Fri, 24 Apr 2015 13:32:45 -0700
+Tasks: Worked on object.js and finished it, but resulted in errors.
+
+Start: Fri, 24 Apr 2015 16:03:11 -0700
+End: Fri, 24 Apr 2015 18:30:29 -0700
+Tasks: Fixed object.js errors and finished assignment 3 part 1 after emailing instructor.
